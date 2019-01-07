@@ -2,6 +2,6 @@ gitskills
 
 i like git.
 
-哈哈
+哈蛤
 
 git log --graph --pretty=oneline --abbrev-commit
