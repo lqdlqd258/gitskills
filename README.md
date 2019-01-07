@@ -1,8 +1,3 @@
-# gitskills
-Git is a version control of system
-creating a new branch is quick
+gitskills
 
-
-Creating a new branch is quick and simple.
-
-I will be go away from company alone for some time.
+i like git.
