@@ -1,7 +1,9 @@
 gitskills
-
+dev：change
 i like git.
-
-哈哈
-
+dev：change
+哈蛤
+dev：change
 git log --graph --pretty=oneline --abbrev-commit
+
+dev：change
